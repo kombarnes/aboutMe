@@ -29,3 +29,7 @@ text-align: center;
     background-color: orange;
     font-family: Meow Script;
 }
+
+@media(max-width: 480px){
+    
+}
