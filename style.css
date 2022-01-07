@@ -17,3 +17,15 @@ a {
 #picture{
 text-align: center;
 }
+
+#education{
+    background-color: lightgreen;
+    text-align: center;
+    font-family: Twinkle Star;
+    
+}
+
+#jobs{
+    background-color: orange;
+    font-family: Meow Script;
+}
